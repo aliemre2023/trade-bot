@@ -1,0 +1,779 @@
+== Bist-100 Bileşenleri ==
+{| class="wikitable sortable"
+|+
+!Kod
+!Firma Adı
+!Sektör
+!Alt sektör
+!Yönetim merkezi
+!Kuruluş yılı
+!Giriş tarihi
+|-
+|AEFES
+|[[Anadolu Efes Biracılık ve Malt]]
+|İmalat
+|Gıda, İçecek ve Tütün
+|Ümraniye, İstanbul
+|
+|
+|-
+|AGHOL
+|[[AG Anadolu Grubu Holding]]
+|Mali Kuruluş
+|Holding
+|Ümraniye, İstanbul
+|
+|
+|-
+|AKBNK
+|[[Akbank]]
+|Mali Kuruluş
+|Bankacılık
+|4. Levent, İstanbul
+|
+|
+|-
+|AKCNS
+|[[Akçansa Çimento]]
+|İmalat
+|Taş ve Toprağa Dayalı İmalat
+|Ataşehir, İstanbul
+|
+|
+|-
+|AKFGY
+|Akfen Gayrimenkul Yatırım Ortaklığı 
+|Mali Kuruluş
+|Gayrimenkul Yatırım Ortaklığı
+|Levent, İstanbul
+|
+|
+|-
+|AKFYE
+|Akfen Yenilenebilir Enerji
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Çankaya, Ankara
+|
+|
+|-
+|AKSA
+|[[AKSA Akrilik Kimya]]
+|İmalat
+|Kimya, İlaç, Petrol, Lastik ve Plastik Ürünler
+|Çiftlikköy, Yalova
+|
+|
+|-
+|AKSEN
+|[[AKSA Enerji Üretim]]
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Beykoz, İstanbul
+|
+|
+|-
+|ALARK
+|[[Alarko Holding]]
+|Mali Kuruluş
+|Holding
+|Ortaköy, İstanbul
+|
+|
+|-
+|ALBRK
+|[[Albaraka Türk Katılım Bankası]]
+|Mali Kuruluş
+|Bankacılık
+|Ümraniye, İstanbul
+|
+|
+|-
+|ALFAS
+|Alfa Solar Enerji
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Çankaya, Ankara
+|
+|
+|-
+|ARCLK
+|[[Arçelik]]
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Beyoğlu, İstanbul
+|
+|
+|-
+|ASELS
+|[[ASELSAN|Aselsan]]
+|Teknoloji
+|Savunma
+|Yenimahalle, Ankara
+|
+|
+|-
+|ASTOR
+|Astor Enerji
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Sincan, Ankara
+|
+|
+|-
+|BERA
+|[[Bera Holding]]
+|Mali Kuruluş
+|Holding
+|Selçuklu, Konya
+|
+|
+|-
+|BIENY
+|Bien Yapı Ürünleri
+|İmalat
+|Taş ve Toprağa Dayalı İmalat
+|Çankaya, Ankara
+|
+|
+|-
+|BIMAS
+|[[Bim Birleşik Mağazalar A.Ş.|BİM Birleşik Mağazalar]]
+|Toptan ve Perakende Ticaret, Lokantalar ve Oteller
+|Perakende Ticaret
+|Sancaktepe, İstanbul
+|
+|
+|-
+|BRSAN
+|[[Borusan Mannesmann]]
+|İmalat
+|Ana Metal Sanayi
+|Beyoğlu, İstanbul
+|
+|
+|-
+|BRYAT
+|Borusan Yatırım Pazarlama
+|Mali Kuruluş
+|Holdingler ve Yatırım Şirketleri
+|Beyoğlu, İstanbul
+|
+|
+|-
+|BUCIM
+|[[Bursa Çimento]]
+|İmalat
+|Taş ve Toprağa Dayalı İmalat
+|Osmangazi, Bursa
+|
+|
+|-
+|CANTE
+|Çan2 Termik
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Ataşehir, İstanbul
+|
+|
+|-
+|CCOLA
+|[[Coca-Cola İçecek A.Ş.|Coca-Cola İçecek]]
+|İmalat
+|Gıda, İçecek ve Tütün
+|Ümraniye, İstanbul
+|
+|
+|-
+|CIMSA
+|[[Çimsa|Çimsa Çimento]]
+|İmalat
+|Taş ve Toprağa Dayalı İmalat
+|Ataşehir, İstanbul
+|
+|
+|-
+|CWENE
+|CW Enerji Mühendislik Ticaret ve Sanayi
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Döşemealtı, Antalya
+|
+|
+|-
+|DOHOL
+|[[Doğan Şirketler Grubu Holding]]
+|Mali Kuruluş
+|Holding
+|Üsküdar, İstanbul
+|
+|
+|-
+|DOAS
+|[[Doğuş Otomotiv]]
+|Toptan ve Perakende Ticaret, Lokantalar ve Oteller
+|Toptan Ticaret
+|Sarıyer, İstanbul
+|
+|
+|-
+|ECILC
+|[[Eczacıbaşı Holding|EİS Eczacıbaşı İlaç]]
+|Mali Kuruluş
+|Holding
+|Levent, İstanbul
+|
+|
+|-
+|ECZYT
+|Eczacıbaşı Yatırım Holding Ortaklığı
+|Mali Kuruluş
+|Holding
+|Levent, İstanbul
+|
+|
+|-
+|EGEEN
+|[[Ege Endüstri]]
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Pınarbaşı, İzmir
+|
+|
+|-
+|EKGYO
+|[[Emlak Konut Gayrimenkul Yatırım Ortaklığı]]
+|Mali Kuruluş
+|Gayrimenkul Yatırım Ortaklığı
+|Ataşehir, İstanbul
+|
+|
+|-
+|ENJSA
+|[[Enerjisa]]
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Ataşehir, İstanbul
+|
+|
+|-
+|ENKAI
+|[[Enka İnşaat]]
+|İnşaat ve Bayındırlık
+|İnşaat ve Bayındırlık İşleri
+|Beşiktaş, İstanbul
+|
+|
+|-
+|EREGL
+|[[Ereğli Demir ve Çelik Fabrikaları]]
+|İmalat
+|Ana Metal Sanayi
+|Ataşehir, İstanbul
+|
+|
+|-
+|EUPWR
+|Europower Enerji ve Otomasyon Sanayileri Ticaret
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Kahramankazan, Ankara
+|
+|
+|-
+|EUREN
+|Europen Endüstri İnşaat Sanayi ve Ticaret
+|İmalat
+|Kimya, İlaç, Petrol, Lastik ve Plastik Ürünler
+|Odunpazarı, Eskişehir
+|
+|
+|-
+|FROTO
+|[[Ford Otosan]]
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Sancaktepe, İstanbul
+|
+|
+|-
+|GARAN
+|[[Türkiye Garanti Bankası]]
+|Mali Kuruluş
+|Bankacılık
+|Beşiktaş İstanbul
+|
+|
+|-
+|GENIL
+|Gen İlaç ve Sağlık Ürünleri Sanayi ve Ticaret
+|Mali Kuruluş
+|Holding
+|Çankaya, Ankara
+|
+|
+|-
+|GESAN
+|Girişim Elektrik Sanayi Taahhüt ve Ticaret
+|İnşaat ve Bayındırlık
+|İnşaat ve Bayındırlık İşleri
+|Kahramankazan, Ankara
+|
+|
+|-
+|GLYHO
+|Global Yatırım Holding
+|Mali Kuruluş
+|Holding
+|Şişli, İstanbul
+|
+|
+|-
+|GUBRF
+|[[Gübre Fabrikaları]]
+|İmalat
+|Kimya, İlaç, Petrol, Lastik ve Plastik Ürünler
+|Kadıköy, İstanbul
+|
+|
+|-
+|GWIND
+|Galata Wind Enerji
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Üsküdar, İstanbul
+|
+|
+|-
+|HALKB
+|[[Türkiye Halk Bankası]]
+|Mali Kuruluş
+|Bankacılık
+|Ataşehir, İstanbul
+|
+|
+|-
+|HEKTS
+|[[Hektaş Ticaret]]
+|İmalat
+|Kimya, İlaç, Petrol, Lastik ve Plastik Ürünler
+|Gebze, Kocaeli
+|
+|
+|-
+|IMASM
+|İmaş Makina Sanayi
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Selçuklu, Konya
+|
+|
+|-
+|IPEKE
+|[[İpek Doğal Enerji Kaynakları Araştırma ve Üretim]]
+|Madencilik ve Taş Ocakçılığı
+|Ham Petrol ve Doğal Gaz Çıkartılması
+|Yenimahalle, Ankara
+|
+|
+|-
+|ISCTR
+|[[Türkiye İş Bankası]]
+|Mali Kuruluş
+|Bankacılık
+|4. Levent, İstanbul
+|
+|
+|-
+|ISDMR
+|[[İskenderun Demir ve Çelik A.Ş.|İskenderun Demir ve Çelik]]
+|İmalat
+|Ana Metal Sanayi
+|Payas, Hatay
+|
+|
+|-
+|ISGYO
+|[[İş Gayrimenkul Yatırım Ortaklığı]]
+|Mali Kuruluş
+|Gayrimenkul Yatırım Ortaklığı
+|4. Levent, İstanbul
+|
+|
+|-
+|ISMEN
+|[[İş Yatırım Menkul Değerler]]
+|Mali Kuruluş
+|Aracı Kurum
+|4. Levent, İstanbul
+|
+|
+|-
+|IZDMC
+|İzmir Demir Çelik Sanayi
+|İmalat
+|Ana Metal Sanayi
+|Çankaya, İzmir
+|
+|
+|-
+|KARSN
+|[[Karsan Otomotiv]]
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Nilüfer, Bursa
+|
+|
+|-
+|KAYSE
+|Kayseri Şeker Fabrikası
+|İmalat
+|Gıda, İçecek ve Tütün
+|Kocasinan, Kayseri
+|
+|
+|-
+|KCAER
+|Kocaer Çelik Sanayi ve Ticaret
+|İmalat
+|Ana Metal Sanayi
+|Merkezefendi, Denizli
+|
+|
+|-
+|KCHOL
+|[[Koç Holding]]
+|Mali Kuruluş
+|Holding
+|Üsküdar, İstanbul
+|
+|
+|-
+|KMPUR
+|Kimteks Poliüretan Sanayi ve Ticaret
+|İmalat
+|Kimya, İlaç, Petrol, Lastik ve Plastik Ürünler
+|Ümraniye, İstanbul
+|
+|
+|-
+|KONTR
+|Kontrolmatik Teknoloji Enerji ve Mühendislik
+|Mesleki, Bilimsel ve Teknik Faaliyetler
+|Mimarlık ve Mühendislik Faaliyetleri, Teknik Muayene ve Analiz
+|Sarıyer, İstanbul
+|
+|
+|-
+|KONYA
+|[[Konya Çimento]]
+|İmalat
+|Taş ve Toprağa Dayalı İmalat
+|Selçuklu, Konya
+|
+|
+|-
+|KORDS
+|[[Kordsa Teknik Tekstil]]
+|İmalat
+|Tekstil, Giyim Eşyası ve Deri
+|İzmit, Kocaeli
+|
+|
+|-
+|KOZAA
+|[[Koza Anadolu Metal Madencilik İşletmeleri]]
+|Madencilik ve Taş Ocakçılığı
+|Metal Cevheri Madenciliği
+|Yenimahalle, Ankara
+|
+|
+|-
+|KOZAL
+|[[Koza Altın İşletmeleri]]
+|Madencilik ve Taş Ocakçılığı
+|Kömür ve Linyit Madenciliği
+|Yenimahalle, Ankara
+|
+|
+|-
+|KRDMD
+|[[Kardemir Karabük Demir Çelik]]
+|İmalat
+|Ana Metal Sanayi
+|Karabük
+|
+|
+|-
+|KZBGY
+|Kızılbük Gayrimenkul Yatırım Ortaklığı
+|Mali Kuruluş
+|Gayrimenkul Yatırım Ortaklığı
+|Beşiktaş, İstanbul
+|
+|
+|-
+|MAVI
+|[[Mavi Giyim]]
+|Toptan ve Perakende Ticaret, Lokantalar ve Oteller
+|Perakende Ticaret
+|Kağıthane, İstanbul
+|
+|
+|-
+|MGROS
+|[[Migros Ticaret]]
+|Toptan ve Perakende Ticaret, Lokantalar ve Oteller
+|Perakende Ticaret
+|Ataşehir, İstanbul
+|
+|
+|-
+|MIATK
+|Mia Teknoloji
+|Teknoloji
+|Bilişim
+|Gölbaşı, Ankara
+|
+|
+|-
+|ODAS
+|[[ODAŞ Elektrik Üretim]]
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Ataşehir, İstanbul
+|
+|
+|-
+|OTKAR
+|[[Otokar Otomotiv ve Savunma]]
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Maltepe, İstanbul
+|
+|
+|-
+|OYAKC
+|[[OYAK Çimento Fabrikaları]]
+|İmalat
+|Taş ve Toprağa Dayalı İmalat
+|Çankaya, Ankara
+|
+|
+|-
+|PENTA
+|Penta Teknoloji Ürünleri Dağıtım Ticaret
+|Teknoloji
+|Bilişim
+|Ümraniye, İstanbul
+|
+|
+|-
+|PETKM
+|[[Petkim Petrokimya Holding]]
+|İmalat
+|Kimya, İlaç, Petrol, Lastik ve Plastik Ürünler
+|Aliağa, İzmir
+|
+|
+|-
+|PGSUS
+|Pegasus Hava Taşımacılığı
+|Ulaştırma, Depolama ve Haberleşme
+|Ulaştırma ve Depolama
+|Pendik, İstanbul
+|
+|
+|-
+|PSGYO
+|Pasifik Gayrimenkul Yatırım Ortaklığı
+|Mali Kuruluş
+|Gayrimenkul Yatırım Ortaklığı
+|Çankaya, Ankara
+|
+|
+|-
+|QUAGR
+|Qua Granite Hayal Yapı ve Ürünleri Sanayi Ticaret
+|İmalat
+|Taş ve Toprağa Dayalı İmalat
+|Efeler, Aydın
+|
+|
+|-
+|SAHOL
+|[[Hacı Ömer Sabancı Holding]]
+|Mali Kuruluş
+|Holding
+|4. Levent, İstanbul
+|
+|
+|-
+|SASA
+|[[SASA Polyester]]
+|İmalat
+|Kimya, İlaç, Petrol, Lastik ve Plastik Ürünler
+|Seyhan, Adana
+|
+|
+|-
+|SISE
+|[[Türkiye Şişe ve Cam Fabrikaları]]
+|Mali Kuruluş
+|Holding
+|Tuzla, İstanbul
+|
+|
+|-
+|SKBNK
+|[[Şekerbank]]
+|Mali Kuruluş
+|Bankacılık
+|Kağıthane, İstanbul
+|
+|
+|-
+|SMRTG
+|Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim Sanayi ve Ticaret
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Beykoz, İstanbul
+|
+|
+|-
+|SOKM
+|[[Şok Marketler]]
+|Toptan ve Perakende Ticaret, Lokantalar ve Oteller
+|Perakende Ticaret
+|Üsküdar, İstanbul
+|
+|
+|-
+|TAVHL
+|[[TAV Havalimanları Holding]]
+|Mali Kuruluş
+|Holding
+|Sarıyer, İstanbul
+|
+|
+|-
+|TCELL
+|[[Turkcell İletişim Hizmetleri A.Ş|Turkcell İletişim Hizmetleri]]
+|Ulaştırma, Depolama ve Haberleşme
+|Haberleşme
+|Maltepe, İstanbul
+|
+|
+|-
+|THYAO
+|[[Türk Hava Yolları]]
+|Ulaştırma, Depolama ve Haberleşme
+|Ulaştırma ve Depolama
+|Bakırköy, İstanbul
+|
+|
+|-
+|TKFEN
+|[[Tekfen Holding]]
+|Mali Kuruluş
+|Holding
+|Beşiktaş İstanbul
+|
+|
+|-
+|TOASO
+|[[Tofaş Türk Otomobil Fabrikası A.Ş.|Tofaş Türk Otomobil Fabrikası]]
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Beşiktaş İstanbul
+|
+|
+|-
+|TSKB
+|[[Türkiye Sınai Kalkınma Bankası]]
+|Mali Kuruluş
+|Bankacılık
+|Beyoğlu, İstanbul
+|
+|
+|-
+|TTKOM
+|[[Türk Telekomünikasyon]]
+|Ulaştırma, Depolama ve Haberleşme
+|Haberleşme
+|Aydınlıkevler, Ankara
+|
+|
+|-
+|TTRAK
+|Türk Traktör ve Ziraat Makineleri
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Yenimahalle, Ankara
+|
+|
+|-
+|TUPRS
+|[[TÜPRAŞ|TÜPRAŞ-Türkiye Petrol Rafinerileri]]
+|İmalat
+|Kimya, İlaç, Petrol, Lastik ve Plastik Ürünler
+|Körfez, Kocaeli
+|
+|
+|-
+|ULKER
+|[[Ülker (şirket)|Ülker Bisküvi]]
+|İmalat
+|Gıda, İçecek ve Tütün
+|Üsküdar, İstanbul
+|
+|
+|-
+|VAKBN
+|[[Türkiye Vakıflar Bankası]]
+|Mali Kuruluş
+|Bankacılık
+|Ümraniye, İstanbul
+|
+|
+|-
+|VESBE
+|[[Vestel|Vestel Beyaz Eşya]]
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Şişli, İstanbul
+|
+|
+|-
+|VESTL
+|[[Vestel|Vestel Elektronik]]
+|İmalat
+|Metal Eşya, Makine, Elektrikli Cihazlar ve Ulaşım Araçları
+|Şişli, İstanbul
+|
+|
+|-
+|YKBNK
+|[[Yapı ve Kredi Bankası]]
+|Mali Kuruluş
+|Bankacılık
+|Levent, İstanbul
+|
+|
+|-
+|YYLGD
+|Yayla Agro Gıda Sanayi ve Ticaret
+|İmalat
+|Gıda, İçecek ve Tütün
+|Kahramankazan, Ankara
+|
+|
+|-
+|ZOREN
+|[[Zorlu Enerji Elektrik Üretim]]
+|Elektrik, Gaz ve Su
+|Elektrik, Gaz ve Buhar
+|Nilüfer, Bursa
+|
+|
+|}
