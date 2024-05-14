@@ -22,7 +22,7 @@ for row in rows[1:]:
     formatted_data.append(row_data)
 
 # Write the formatted data to a text file
-f = open('bist100/bist100.txt', 'w')
+f = open('bist100/bist100.csv', 'w')
 f.write("code;company;sector;subsector;central;\n")
 for row in formatted_data:
     for item in range(len(formatted_data[0])):
@@ -30,4 +30,4 @@ for row in formatted_data:
         f.write(";")
     f.write("\n")
 
-print("Data has been converted and saved to bist100.txt file.")
+print("Data has been converted and saved to bist100.csv file.")
