@@ -14,10 +14,10 @@ import os
 
 f = open("scraper/data/content.txt", "r")
 
-def anchor_finder(xpath):   
+def anchor_finder():   
     soup = BeautifulSoup(f.read(), 'html.parser')
 
-    div_list = soup.find('div', class_=xpath)
+    div_list = soup.find('div', class_="list-iTt_Zp4a")
 
     anchor_tags = div_list.find_all('a')
 
@@ -27,15 +27,15 @@ def anchor_finder(xpath):
     f.seek(0)
     return href_list
 
-xpath = "list-iTt_Zp4a"
-href_list = anchor_finder(xpath)
+
+href_list = anchor_finder()
 
 message = """***
 Yasal Uyarı
 
 Burada yer alan yatırım bilgi, yorum ve tavsiyeler yatırım danışmanlığı kapsamında değildir.Yatırım danışmanlığı hizmeti ; aracı kurumlar, portföy yönetim şirketleri, mevduat kabul etmeyen bankalar ile müşteri arasında imzalanacak yatırım danışmanlığı sözleşmesi çerçevesinde sunulmaktadır.Burada yer alan yorum ve tavsiyeler, yorum ve tavsiyede bulunanların kişisel görüşlerine dayanmaktadır.Bu görüşler mali durumunuz ile risk ve getiri tercihlerinize uygun olmayabılır.Bu nedenle, sadece burada yer alan bilgilere dayanılarak yatırım kararı verilmesi beklentilerinize uygun sonuçlar doğurmayabilir."""
 
-def content_extractor(anchor_list, xpath):
+def content_extractor(anchor_list):
     service = Service(binary_path)
     chrome_options = Options()
     chrome_options.add_argument("--headless")
@@ -47,7 +47,10 @@ def content_extractor(anchor_list, xpath):
 
         
         try:
-            content = driver.find_element(By.XPATH, xpath).text
+            title = driver.find_element(By.CLASS_NAME, "title-KX2tCBZq").text
+            content = driver.find_element(By.XPATH, "//div[@class='body-KX2tCBZq body-pIO_GYwT content-pIO_GYwT']").text
+
+            content = title + "\n" + content
 
             time = driver.find_element(By.CSS_SELECTOR, "time").get_attribute("datetime")
             dt_object = datetime.strptime(time, "%a, %d %b %Y %H:%M:%S %Z")
@@ -94,5 +97,4 @@ def content_extractor(anchor_list, xpath):
 
         driver.quit()
 
-xpath = "//div[@class='body-KX2tCBZq body-pIO_GYwT content-pIO_GYwT']"
-content_extractor(href_list, xpath)
+content_extractor(href_list)

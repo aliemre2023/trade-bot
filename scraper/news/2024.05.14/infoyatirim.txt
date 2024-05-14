@@ -1,3 +1,4 @@
+Bilanço Analizi-Bim (İnfo Yatırım)
 IAS 29 Hariç Satış Büyümesi %81 Gerçekleşti Bim, 2023 yılının dördüncü çeyreğinde 82,5 milyar TL beklentilerin %76 üstünde 144,8 milyar TL ciro, 6,1 milyar TL beklentilerinin altında -351 milyon TL FAVÖK ve 3,4 milyar TL olan konsensüs beklentilerin yaklaşık 2 katı 7,4 milyar TL net kar açıkladı.
 Açıklanan finansallar geçen çeyreğe kıyasla ciroda %95, net karda %92 artışla işaret etti. FAVÖK, geçen çeyrekte 6,7 milyar TL gelmişti.
 2023 yılının tamamında ise 2022 yılına göre ciro %18, FAVÖK %1 artarken ve net kar sırasıyla %7 azaldı. (IAS 29 Hariç 2023 Net Kar 267,0 Milyar TL, , Net Kar 12,3 Milyar TL)
@@ -16,6 +17,7 @@ www.infoyatirim.com (http://www.infoyatirim.com)
 
 
 __________________________________________________
+Günlük Bülten (İnfo Yatırım)
 Ne Oldu?
 Cumhurbaşkanı Erdoğan: Yunanistan ile terörle mücadele konusunda anlayış birliğimiz giderek güçleniyor. Terör örgütlerine bölgemizin geleceğinde yer olmadığına dair mutabıkız.
 Yunanistan Başbakanı Miçotakis: (Türkiye'nin AB’ye üyelik sürecine ilişkin) Yunanistan, var olan zorluklara rağmen Türkiye'nin AB'ye ortaklık sürecine destek vermeye devam etmektedir.
@@ -147,6 +149,7 @@ www.infoyatirim.com (http://www.infoyatirim.com)
 
 
 __________________________________________________
+Teknik bülten (İnfo Yatırım)
 BİST100 endeksi geçtiğimiz işlem gününü 163 puan düşüşle 10.056 seviyesinden tamamladı. 2023 yılının Ekim ayından bu yana başlayan ve tepelerin birleşmesi ile oluşan trend sonucunda rekorlar kıran100'deki geri çekilmeyi kar realizasyonu olarak nitelendiriyoruz.
 Yabancı takas oranındaki kısmi gerileme sonucunda meydana gelen bankacılık tarafındaki sert baskı, endekse sirayet ederken, 9.750 seviyesinin üstünde kalındıkça kısa vadeli olumlu beklentimizi koruyoruz.
 100 endeksinde TL bazında 10.135 seviyesini pivot, 10.210 - 10.365 - 10.445 seviyelerini direnç, 9.980 - 9.900 - 9.745 seviyelerini destek seviyeleri olacak takip edeceğiz.

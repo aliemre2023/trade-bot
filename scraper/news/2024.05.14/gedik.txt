@@ -1,3 +1,4 @@
+Günlük Öneri, Destek Direnç Tablosu ve Yabancı Takas Raporu (Gedik Yatırım)
 BIST-100 Strateji-100 Endeksi kapanışa doğru hız kazanan satışlarla günü %1,59 oranında kayıpla 10.056 puandan tamamladı. Geçen hafta destek olarak çalışan 7 günlük ortalamanın (10.167) altında bir kapanış gerçekleştiren endekste psikolojik öneme sahip 10.000 desteği de kırılacak olursa 9.950 - 9.900 bölgesi ile 9.849 seviyesine doğru geri çekilmeler gündeme gelebilir. 10.100 seviyesi üzerinde toparlanma eğiliminde ise 7 günlük ortalama (10.167) ile 10.200 seviyesi kısa vadeli direnç noktalarıdır. 10.200 üzerindeki fiyatlamalarda 10.250 - 10.325 ve zirvenin bulunduğu 10.383 seviyeleri direnç konumunda bulunmaktadır. Teknik görünümün zayıflama kaydettiği endekse karşı kısa vadede temkinli bir yaklaşımın benimsenmesi gerektiğini değerlendiriyoruz.
 BIST-100 Endeksi’nin güne dalgalı bir açılışla başlamasını bekliyoruz
 
@@ -9,6 +10,7 @@ www.gedik.com (http://www.gedik.com)
 
 
 __________________________________________________
+BIST-100 ve Yıldız Pazar Teknik Göstergeleri (Gedik Yatırım)
 Yıldız Pazar ve-100’de yer alan hisselerin teknik göstergelerini düzenli olarak raporumuzda paylaşıyor olacağız. İlk 3 sayfada-100 hisselerine yer verilirken,
 çalışmanın devam eden bölümünde Yıldız Pazar hisselerinin teknik görünümlerine ulaşabilirsiniz. Çalışmamızda hisselerin son 1 yıl içinde gördükleri düşük ve yüksek seviyeler ile bu seviyelere bağlı olarak dip/zirve uzaklıklarına yer verilmiştir. Dip/zirve analizinin ardından 10,21, 50, 100 ve 200 günlük hareketli ortalamalara göre hissenin kapanış fiyatı baz alınarak uzaklık hesaplanmıştır. Yeni halka arzlarda henüz yeterli zaman geçmemesine bağlı hesaplanamayan ortalamalar boş bırakılmıştır. Ortalamanın üzerindeki fiyatlamaya işaret eden pozitif değerler mavi renkle, ortalamanın altında fiyatlamaya işaret eden negatif değerler kırmızı renk ile gösterilmiştir.
 Money Flow Endeksi (MFI)
