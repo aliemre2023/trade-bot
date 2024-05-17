@@ -5,7 +5,7 @@ class Wallet:
     def __init__(self, name):
         self.name = name
         self.money = 0
-        self.portfolio = {}
+        self.portfolio = {} # holds only names like MGROS.IS, not MGROS
         self.load_wallet() # wallet be loaded if trader exist
 
     def load_wallet(self):
@@ -13,12 +13,12 @@ class Wallet:
 
         for index,row in bank.iterrows():
             trader = row["Trader"]
-            money = row["Money"]
-            self.money = money
             
             if(trader == self.name):
+                money = row["Money"]
+                self.money = money
                 for company, stock in row.items():
-                    if(company != "Trader" or company != "Money"):
+                    if(company != "Trader" and company != "Money" and stock != 0):
                         self.portfolio[company + ".IS"] = stock
     
     def save_wallet(self):
@@ -26,7 +26,7 @@ class Wallet:
 
         portfolio_only_code = dict()
         for key,value in self.portfolio.items():
-            key = key.split(".")[0]
+            key = key.split(".")[0] # get rid of .IS 
             portfolio_only_code[key] = value
 
         if ((len(bank["Trader"].values) == 0) or (self.name not in bank["Trader"].values)):
@@ -35,10 +35,9 @@ class Wallet:
             
             for company in bank.columns:
                 company = company.split(".")[0]
-                #print(company)
+        
                 if(company != "Trader" and company != "Money"):  
                     if company in portfolio_only_code.keys():
-                        #print("girdim")
                         new_row[company] = portfolio_only_code[company] # 0 if not exist
                     else:
                         new_row[company] = 0
@@ -49,7 +48,7 @@ class Wallet:
         else:       
 
             for company, stock in portfolio_only_code.items():
-                bank[company] = stock
+                bank.loc[bank["Trader"] == self.name, company] = stock
         
         bank.loc[bank["Trader"] == self.name, "Money"] = self.money
 
@@ -72,7 +71,7 @@ class Wallet:
             return
         per_value = last10days["Close"][-1]
 
-        for _ in range(unit):
+        for _ in range(int(unit)):
             if(self.money >  per_value):
                 self.money -=  per_value
 
@@ -111,7 +110,6 @@ class Wallet:
                 else:
                     per_value = last10days["Close"][-1]
                     total += value * per_value
-                #print(key)
 
                 print(f"{key}: {value}")
         
