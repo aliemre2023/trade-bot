@@ -8,7 +8,7 @@ const fs = require('fs');
   
   // Navigate to the webpage
   await page.goto('https://tr.tradingview.com/news/markets/?category=stock&market_country=TR');
-  await page.waitForSelector('.card-rY32JioV');
+  await page.waitForSelector('.card-DmjQR0Aa'); // classname may be change in time
   // Get the HTML source of the page
   const htmlSource = await page.content();
   
