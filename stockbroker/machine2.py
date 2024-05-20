@@ -24,6 +24,7 @@ for index, row in trust_values[::-1].iterrows():
     code_row = row["code"]
 
     if (value_row > 30):
+        print(code_row, "evaluating...")
         if (sequential_model(code_row + ".IS")):
             my_wallet.buy(code_row + ".IS", value_row/3) 
 
