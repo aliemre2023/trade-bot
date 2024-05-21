@@ -12,23 +12,17 @@ paths = [
 for file in paths:
     filename = file.split("/")[-1]
     extention = filename.split(".")[-1]
-    print(filename)
-    print(extention)
 
+    print(filename, "processing...")
     if extention == "js":
-        subprocess.run(["node", file], check=True, capture_output=True, text=True)
+        subprocess.run(["node", file])
     elif extention == "py":
-        # subprocess.run(["python", file], check=True, capture_output=True, text=True)
-        
-        result = subprocess.run(["python", file], capture_output=True, text=True, check=True)
-        #
-        print(result.stdout)
-        print(result.stderr)
+        subprocess.run(["python", file])
     elif extention == "ipynb":
-        subprocess.run(["jupyter", "nbconvert", "--to", "notebook", "--execute", file], check=True, capture_output=True)
+        subprocess.run(["jupyter", "nbconvert", "--to", "notebook", "--execute", file])
     else:
         print("Subprocess could not done.") 
         print(filename, "is the problem.")
         break
 
-    print(filename, "run.")
+    print(filename, "processed.")
