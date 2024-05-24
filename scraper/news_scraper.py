@@ -40,6 +40,7 @@ def content_extractor(anchor_list):
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     for link in anchor_list:
+        #print(link)
         driver = webdriver.Chrome(service=service, options=chrome_options)
 
         driver.get(link)
@@ -47,8 +48,11 @@ def content_extractor(anchor_list):
 
         
         try:
+            """
+            Elements depends on website, it may be change in time, need to be controlled
+            """
             title = driver.find_element(By.CLASS_NAME, "title-KX2tCBZq").text
-            content = driver.find_element(By.XPATH, "//div[@class='body-KX2tCBZq body-pIO_GYwT content-pIO_GYwT']").text
+            content = driver.find_element(By.XPATH, "//div[@class='body-KX2tCBZq body-pIO_GYwT content-pIO_GYwT body-RYg5Gq3E']").text
 
             content = title + "\n" + content
 
