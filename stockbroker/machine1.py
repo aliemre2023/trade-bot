@@ -8,11 +8,12 @@ my_wallet = Wallet("Mr. Machine")
 
 
 trust_values = pd.read_csv("scraper/data/trust_values.csv")
+trust_values.set_index("code", inplace=True)
 
 # bought portion
 for index, row in trust_values[::-1].iterrows():
     value_row = row["value"]
-    code_row = row["code"]
+    code_row = index
 
     if(value_row > 50):
         my_wallet.buy(code_row + ".IS", value_row/5) 
@@ -21,7 +22,7 @@ for index, row in trust_values[::-1].iterrows():
 for company, stock in my_wallet.portfolio.items():
     company = company.split(".")[0]
 
-    trust_value = trust_values.loc[trust_values.code == company, "value"].index[0]
+    trust_value = trust_values.at[company, "value"]
     
     if(trust_value < 50):
         my_wallet.sell(company+".IS", stock)

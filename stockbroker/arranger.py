@@ -1,5 +1,9 @@
-import pandas as pd
+"""
+It will prepare bank.csv in the wanted form,
+if it will be runned acounts will be deleted
+"""
 
+import pandas as pd
 
 bist100 = pd.read_csv("bist100/bist100.csv", delimiter=";")
 

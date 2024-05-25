@@ -1,3 +1,8 @@
+"""
+It will prepare bis100.csv in the wanted shape,
+with using wikipedia data
+"""
+
 f = open("bist100/bist100_wikipedia.txt","r")
 data = f.read()
 
