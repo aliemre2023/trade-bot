@@ -1,0 +1,26 @@
+Traceback (most recent call last):
+  File "/Users/aliemre2023/Desktop/github/trade-bot/scraper/news_scraper.py", line 1, in <module>
+    from bs4 import BeautifulSoup
+ModuleNotFoundError: No module named 'bs4'
+Traceback (most recent call last):
+  File "/Users/aliemre2023/Desktop/github/trade-bot/scraper/evaluation.py", line 1, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "/Users/aliemre2023/Desktop/github/trade-bot/stockbroker/trader1.py", line 1, in <module>
+    from wallet import Wallet
+  File "/Users/aliemre2023/Desktop/github/trade-bot/stockbroker/wallet.py", line 1, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/Users/aliemre2023/Desktop/github/trade-bot/stockbroker/machine1.py", line 1, in <module>
+    from wallet import Wallet
+  File "/Users/aliemre2023/Desktop/github/trade-bot/stockbroker/wallet.py", line 1, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/Users/aliemre2023/Desktop/github/trade-bot/stockbroker/machine2.py", line 1, in <module>
+    from wallet import Wallet
+  File "/Users/aliemre2023/Desktop/github/trade-bot/stockbroker/wallet.py", line 1, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'

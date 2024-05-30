@@ -1,0 +1,50 @@
+<!-- 
+  ## load plist file into launchd ## 
+  launchctl load com.aliemre2023.macosscript.plist 
+  launchctl list | grep com.aliemre2023.macosscript
+  -->
+<!--
+  ## delete plist file into launchd ## 
+  launchctl unload com.aliemre2023.macosscript.plist
+-->
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>com.aliemre2023.macosscript</string>
+    <key>ProgramArguments</key>
+    <array>
+      <!-- path of your python -->
+      <!--/Users/aliemre2023/.pyenv/shims/python3-->
+      <!-- write "which python3" to terminal to find path -->
+      <string>/Users/aliemre2023/.pyenv/versions/3.10.6/bin/python3</string> 
+      <!-- write "which node", without node -->
+      <!--<string>/usr/local/bin</string>-->
+      <!-- file path to execute -->
+      <!-- absolute path of daily_run.py -->
+      <string>/Users/aliemre2023/Desktop/github/trade-bot/daily-agent/daily_run.py</string>
+    </array>
+
+    <!--
+    <key>StartCalendarInterval</key>
+    <dict>
+      <key>Hour</key>
+      <integer>21</integer>
+      <key>Minute</key>
+      <integer>18</integer>
+    </dict>
+    <key>RunAtLoad</key>
+    -->
+    <key>StartInterval</key>
+    <integer>60</integer> <!-- 60 seconds = 1 minute -->
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardErrorPath</key>
+    <string>/Users/aliemre2023/Desktop/github/trade-bot/daily-agent/tmp/com.aliemre2023.macosscript.err</string>
+    <key>StandardOutPath</key>
+    <string>/Users/aliemre2023/Desktop/github/trade-bot/daily-agent/tmp/com.aliemre2023.macosscript.out</string>
+  </dict>
+</plist>
